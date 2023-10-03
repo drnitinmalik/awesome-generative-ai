@@ -82,7 +82,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
 - [quivr](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
-### Writing assistants
+### Writing assistants (Content Generators)
 
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
@@ -99,6 +99,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
 - [LAIKA](https://www.writewithlaika.com/) - LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
+- [Paperpal](https://paperpal.com) - paraphrasing
+- [Ginger](https://www.gingersoftware.com) - paraphrasing
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 
@@ -133,10 +135,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Academia
 
-- [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
+- [Elicit](https://elicit.org/) - Elicit uses language models to help you out in literature review.
 - [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
-- [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
-- [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
+- [Explainpaper](https://www.explainpaper.com/) - Upload a paper, highlight confusing text, get an explanation.
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 
 ### Other text generators
