@@ -26,6 +26,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [A Coming-Out Party for Generative A.I., Silicon Valley's New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) - Article about the rise of generative AI, particularly the success of the Stable Diffusion image generator, and the associated controversies. New York Times, October 21, 2022.
 - [AI's New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/) - Article about the growing hype and investment in generative AI startups, with various industries exploring its potential applications. Wired, October 27, 2022.
 - [ChatGPT Heralds an Intellectual Revolution](https://www.wsj.com/articles/artificial-intelligence-generative-ai-chatgpt-kissinger-84512912) - An op-ed by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher. Wall Street Journal, February 24, 2023.
+- [List of Transformer models in alphateic order](https://huggingface.co/docs/transformers/index)
+- You can [compare the performance of the Transformer models](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) on the Huggingface leaderboard 
 
 ### Milestones
 
@@ -43,14 +45,21 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - GPT-3 and GPT-4 - [OpenAI API](https://openai.com/api/) provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. GPT-1 (Feb 2018) (GPT-3 in 2020, 175 billion parameters)
 - BERT (Oct 2018, Google)
-- XLNet (2019, Google & Carnegie Mellon University)
-- [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
-- [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
-- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
-- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter LLM by Meta. #opensource
-- [Llama 2](https://ai.meta.com/llama/) - version2
-- [Claude 2](https://claude.ai/) - AI assistant from Anthropic.
-- [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
+- XLNet (2019, Google Brain & Carnegie Mellon University)
+- T5 (2020, Google)
+- [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher (Dec 2021) by Google DeepMind is a 280 billion parameter language model.
+- [LaMDA2](https://blog.google/technology/ai/lamda/) by Google (2022)
+- Palm (2022, Google)
+- StableLM (2022, StabilityAI)
+- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face (2022) is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages.
+- [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) (Dec 2022) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
+- Falcon (2023, Technology Innovation Institute, UAE)
+- Orca (Microsoft, 2023)
+- Phi-1 (2023, Microsoft)
+- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) (2023) - A foundational, 65-billion-parameter LLM by Meta #opensource
+- [Llama 2](https://ai.meta.com/llama/) (2023) - version2 (FB's earlier LLM: Galactica 2022 failed)
+- [Claude 2](https://claude.ai/) - (2023) AI assistant from Company Anthropic.
+- [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) (2023) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
 
 ### Chatbots
 
